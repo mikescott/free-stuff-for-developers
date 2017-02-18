@@ -4,6 +4,9 @@ A handy list of tools and services with generous free allowances
 
 ---
 
+## Search from Algolia
+[Algolia](https://www.algolia.com) can provide fast and easy search for your website. The [Laravel documentation](https://laravel.com/docs/) is a great example of it in action. Their free tier allows you to store 10,000 items and perform 100,000 operations each month.
+
 ## DNS from NS1
 [ns1](https://ns1.com) is a DNS provider with 22 points-of-presence (POPs), and [ultra-low global response times](http://www.solvedns.com/dns-comparison/2016/06).
 
